@@ -25,7 +25,4 @@ This repository contains a Jupyter Notebook created as part of my data science l
 ## 🎯 Purpose
 The purpose of this notebook is to strengthen Python skills, understand data analysis workflows, and build a strong foundation for data science and machine learning.
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+
