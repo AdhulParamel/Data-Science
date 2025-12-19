@@ -1,45 +1,67 @@
- Basic Statistics 1
-Author: Adhul Paramel Sathish
-Platform: Jupiter Notebook
+📊 Data Science Practice – Jupyter Notebook
+👤 Author
 
-This assignment introduces the fundamentals of Basic Statistics, which form the backbone of Data Science and Machine Learning.
-Using the provided dataset (sales_data_with_discounts.csv), the notebook demonstrates how statistical concepts help in understanding patterns, trends, and relationships in data.
+Adhul Paramel Sathish
 
-📘 Topics Covered
-🔹 1. Statistical Measures
-Mean
-Median
-Mode
-Range
-Variance
-Standard Deviation
-🔹 2. Data Distribution
-Understanding spread and central tendency
-Identifying skewness
-Interpretation of statistical summaries
-🔹 3. Working With Real Data
-Using sales_data_with_discounts.csv, the notebook covers:
+📘 Platform
 
-Importing dataset using Pandas
-Cleaning & preparing the data
-Computing summary statistics
-Understanding sales patterns
-Evaluating discount effects
-📄 Files Included
-Basic_Statistics_1.ipynb
-A complete Google Colab notebook with statistical analysis steps.
+Jupyter Notebook
 
-sales_data_with_discounts.csv
-Dataset used for calculating statistical measures and insights.
+📂 Repository Overview
 
-▶️ How to Run This Notebook
-Option 1 — Open in Google Colab
-Upload the .ipynb file to Google Drive
-Right-click → Open with → Google Colab
-Make sure sales_data_with_discounts.csv is uploaded in the same folder
-Update file path in the notebook if necessary
-Option 2 — Run Locally
-Install necessary packages:
+This repository contains a Jupyter Notebook created as part of my data science learning and practice. The notebook includes hands-on implementation of Python concepts relevant to data analysis and data science workflows.
 
-pip install pandas numpy notebook
-jupyter notebook
+🛠️ Tools & Technologies Used
+
+Python
+
+Jupyter Notebook
+
+NumPy
+
+Pandas
+
+Matplotlib / Seaborn (if used)
+
+📌 Contents
+
+Python fundamentals
+
+Data manipulation
+
+Exploratory data analysis
+
+Logical and analytical problem-solving
+
+🎯 Purpose
+
+The main purpose of this notebook is to:
+
+Strengthen Python programming skills
+
+Practice data analysis techniques
+
+Build a foundation for machine learning and data science projects
+
+🚀 How to Use
+
+Clone the repository
+
+git clone https://github.com/your-username/repository-name.git
+
+
+Open Jupyter Notebook
+
+Run the .ipynb file cell by cell
+
+📈 Learning Outcome
+
+Improved understanding of Python for data science
+
+Practical exposure to Jupyter Notebook
+
+Hands-on experience with real coding exercises
+
+📬 Contact
+
+Feel free to connect with me for feedback, collaboration, or suggestions.
