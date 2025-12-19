@@ -29,7 +29,3 @@ This repository contains a Jupyter Notebook focused on **basic statistical conce
 ## 🎯 Objective
 To understand and implement fundamental statistical techniques that form the foundation of data analysis and data science.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
